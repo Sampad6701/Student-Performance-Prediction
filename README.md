@@ -25,7 +25,7 @@ This version of project focuses on building a simple and transparent supervised 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python  
 - Pandas / NumPy  
