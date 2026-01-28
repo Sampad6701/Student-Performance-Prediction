@@ -18,8 +18,6 @@ While the current implementation is intentionally minimal, this project is being
 
 ## Problem Statement
 
-The project attempts to answer:
-
 > *Educational institutions aim to identify students at risk of poor academic performance.  
 Decision Tree models provide interpretable rules that help understand the factors influencing student outcomes.*
 
