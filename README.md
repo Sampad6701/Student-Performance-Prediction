@@ -1,7 +1,7 @@
 # Student-Performance-Prediction
 
-> **Status:** Academic Prototype (Semester Project)  
-> **Model Used:** Decision Tree Classifier 
+> **Status:** Academic Prototype (Semester Project)<br>
+> **Model Used:** Decision Tree Classifier<br>
 > **Future Direction:** Extended Academic Experimentation
 
 ---
