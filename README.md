@@ -38,9 +38,9 @@ This version of project focuses on building a simple and transparent supervised 
 ## Repository Structure
 
 ```
-├── docs/           # Project report
-├── notebooks/      # .ipynb file
-├── results/        # Evaluation outputs
+├── docs/           # Project report and documentation
+├── notebooks/      # Jupyter notebooks (.ipynb)
+├── results/        # Evaluation outputs and figures
 ├── .gitignore
 ├── LICENSE
 ├── README.md
@@ -49,7 +49,7 @@ This version of project focuses on building a simple and transparent supervised 
 
 ---
 
-## Current Limitations (V1)
+## Current Limitations (V1.0)
 
 This is a classroom-scale prototype and therefore:
 
