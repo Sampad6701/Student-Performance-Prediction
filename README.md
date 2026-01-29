@@ -34,6 +34,12 @@ This version of project focuses on building a simple and transparent supervised 
 
 ---
 
+## Dataset
+
+- Source: UCI Machine Learning Repository
+- Link: [https://archive.ics.uci.edu/ml/machine-learning-databases/00320/student.zip](https://archive.ics.uci.edu/ml/machine-learning-databases/00320/student.zip)
+
+Raw data files are not included in this repository. Please download them directly from the official source.
 
 ## Repository Structure
 
@@ -68,7 +74,7 @@ Upcoming versions may explore:
 - Comparing multiple algorithms (Random Forest, XGBoost, SVM)  
 - Feature engineering experiments  
 - Larger datasets  
-- Hyperparamter tuning
+- Hyperparameter tuning
 - Explainability tools
 - Simple deployment interface    
 
