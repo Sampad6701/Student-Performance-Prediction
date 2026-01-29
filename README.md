@@ -55,7 +55,7 @@ Raw data files are not included in this repository. Please download them directl
 
 ---
 
-## Current Limitations (V1.0)
+## Current Limitations
 
 This is a classroom-scale prototype and therefore:
 
@@ -67,7 +67,7 @@ This is a classroom-scale prototype and therefore:
 
 ---
 
-## Vision for V2+
+## Future Plans
 
 Upcoming versions may explore:
 
